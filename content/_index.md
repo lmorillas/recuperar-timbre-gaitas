@@ -12,13 +12,20 @@ outputs = ["Reveal"]
 
 ---
 
-## Quiero hablar de
+{{% section %}}
 
+## Quiero hablar de
 * Sonoridad, timbre
 * Cañas
 * Desde experiencia personal
 
 ### Y no de
-
 * Escalas, clarines
 * Construcción del instrumento
+
+---
+
+<img src="img/codigo_qr.png"  class="r-stretch" >
+
+
+{{% /section %}}

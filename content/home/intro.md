@@ -9,6 +9,8 @@ outputs = ["Reveal"]
 
 <h2 class="r-fit-text">¿Hay distintos sonidos?</h2>
 
+<h2 class="r-fit-text">¿No son todas las gaitas iguales?</h2>
+
 ---
 ## Habla y timbre
 
@@ -108,10 +110,10 @@ outputs = ["Reveal"]
 ---
 
 {{% section %}}
-## Intento de recuperar el sonido
-
+## Recuperando el sonido
+* Desde 2020
 * Replicar las piezas de madera no es difícil
-* Lo complejo: las cañas
+* Lo más complejo: las cañas
 
 <img class="r-stretch" src="img/pitas-bestue-mejor.png" >
 
