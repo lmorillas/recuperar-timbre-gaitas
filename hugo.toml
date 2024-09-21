@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+languageCode = 'es-es'
+title = '¿Cómo sonaron nuestras gaitas?'
+theme = ["github.com/dzello/reveal-hugo"]
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputFormats.Reveal]
+baseName = "index"
+mediaType = "text/html"
+isHTML = true
+
+[params.reveal_hugo]
+history = true
+theme = "sky"

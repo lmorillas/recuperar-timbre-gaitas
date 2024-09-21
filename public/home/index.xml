@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on ¿Cómo sonaron nuestras gaitas?</title>
+    <link>http://localhost:1313/home/</link>
+    <description>Recent content in Homes on ¿Cómo sonaron nuestras gaitas?</description>
+    <generator>Hugo</generator>
+    <language>es-es</language>
+    <atom:link href="http://localhost:1313/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/home/intro/</guid>
+      <description>&lt;section data-shortcode-section&gt;&#xA;&lt;h2 class=&#34;r-fit-text&#34;&gt;¿Qué quiere decir? ¿A qué suena mi gaita de boto?&lt;/h2&gt;&#xA;&lt;h2 class=&#34;r-fit-text&#34;&gt;¿Hay distintos sonidos?&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;habla-y-timbre&#34;&gt;Habla y timbre&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Distinguimos quién habla por su acento y su timbre&lt;/li&gt;&#xA;&lt;li&gt;Oímos a un gallego, un zamorano, un catalán, un aragonés&lt;/li&gt;&#xA;&lt;li&gt;Suenan diferente&lt;/li&gt;&#xA;&lt;li&gt;Mi voz y la de otra persona no son iguales&lt;/li&gt;&#xA;&lt;li&gt;Matices, un timbre distinto&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h4 id=&#34;y-los-instrumentos&#34;&gt;¿Y los instrumentos?&lt;/h4&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;pasa-lo-mismo-con-los-instrumentos&#34;&gt;¿Pasa lo mismo con los instrumentos?&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Tienen su timbre, afinación,forma de tocar&lt;/li&gt;&#xA;&lt;li&gt;Pero nuestro mundo uniformiza&lt;/li&gt;&#xA;&lt;li&gt;En el pasado no fue así&lt;/li&gt;&#xA;&lt;li&gt;No hubo una gaita gallega. Muchas gaitas.&lt;/li&gt;&#xA;&lt;li&gt;Seguramente tampoco una única gaita de boto&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&#xA;&lt;/section&gt;&#xA;&lt;hr&gt;&#xA;&#xA;&#xA;&lt;section data-shortcode-section&gt;&#xA;&lt;h2 id=&#34;la-gaita-de-boto&#34;&gt;La Gaita de Boto&lt;/h2&gt;&#xA;&lt;p class=&#34;r-stretch&#34;&gt;&lt;img src=&#34;img/gaita-bestue.png&#34; &gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
