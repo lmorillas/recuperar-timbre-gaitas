@@ -209,6 +209,7 @@ Estas no funcionaron
 ---
 
 {{% section %}}
+
 ## Más allá de la caña
 
 * La gaita aragonesa tiene 3 sonidos
@@ -225,6 +226,15 @@ Estas no funcionaron
 * ¿Instrumento temperado?
 * Instrumento y repertorio
 * ¿Bordones y bordonetas?
+
+
+---
+
+"Los bailes con la gaita, **que era análoga a la gallega pero más perfecta**, se 
+efectuaban las parejas de bailadores frente a las mujeres ..."
+
+Enrique Ainsa Lalaguna (1864-1947)
+
 
 {{% /section %}}
 
