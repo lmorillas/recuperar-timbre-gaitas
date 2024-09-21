@@ -81,7 +81,7 @@ outputs = ["Reveal"]
 {{% section %}}
 
 ## La primera recuperación
-
+* Desde años 80
 * Con los medios que había
 * Los músicos quieren instrumentos que afinen bien
 * Se mira a las gaitas gallegas
