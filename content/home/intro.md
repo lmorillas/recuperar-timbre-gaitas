@@ -234,3 +234,6 @@ Proceso de reproducción y datación de las gaitas de boto de Robres y Bestué
  </p>
 
 ---
+
+## Créditos y agradecimientos
+
