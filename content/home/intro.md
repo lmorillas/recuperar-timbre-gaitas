@@ -1,10 +1,18 @@
 +++
 weight = 10
 outputs = ["Reveal"]
+
+
+ideas = "lengüetas de materiales sintéticos: muy predecibles y homogénes. No da calidad: desviación de la serie: sonoridad. Tonos diferenciales. Sobretonos Riqueza que crea el oído    "
+
 +++
 
 
 {{% section %}}
+<h2 class="r-fit-text">1. Preocupación</h2>
+
+---
+
 <h2 class="r-fit-text">¿Qué quiere decir? ¿A qué suena mi gaita de boto?</h2>
 
 <h2 class="r-fit-text">¿Hay distintos sonidos?</h2>
@@ -19,8 +27,6 @@ outputs = ["Reveal"]
 * Suenan diferente
 * Mi voz y la de otra persona no son iguales
 * Matices, un timbre distinto
-
-#### ¿Y los instrumentos?
 
 ---
 
@@ -38,12 +44,21 @@ outputs = ["Reveal"]
 ---
 
 {{% section %}}
+<h2 class="r-fit-text">2. ¿Cómo suena una gaita?</h2>
 
+---
 
 ## La Gaita de Boto
 <p class="r-stretch"><img src="img/gaita-bestue.png" ></p>
 
 ```Foto: Pablo Carpintero```
+
+---
+
+## Lengüetas y tubos sonoros
+* Una lengüeta hace de válvula
+* Hace pasar una masa de aire a otra zona donde hay otra masa de aire
+* El instrumento (clarín) es un **recipiente**
 
 ---
 ## Lo importante, lo que no se ve
@@ -52,9 +67,27 @@ outputs = ["Reveal"]
 * Interior del cono / clarín
 * El sonido lo produce una caña doble
 * Que estimula una columna de aire
+* **Cada cono, necesita su válvula**
+
+---
+## Vibraciones
+
+<p class="r-stretch"><img src="img/modos_vibracion.png" ></p>
+
+*Foto: PFC Guillermo Azuara*
+
+* La primera produce el tono
+* El resto dan la riqueza del sonido
+
+{{% /section %}}
 
 ---
 
+{{% section %}}
+
+<h2 class="r-fit-text">3. Lo que tenemos</h2>
+
+---
 ## Situación residual del instrumento
 
 * En la segunda mitad del s. XX han desaparecido los gaiteros en Aragón
@@ -64,24 +97,6 @@ outputs = ["Reveal"]
 
 ---
 
-## Pero muy buenos instrumentos
-* Los instrumentos son de gran calidad
-* Una gaita tocada durante siglos es un buen instrumento
-* Ha cumplido perfectamente su función (muchas generaciones)
-* Gran consideración social como instrumento
-
----
-
-## Si los instrumentos no se modificaron
-
-* Guardan sus características originales:
-* su voz y su escala perfectamente afinada
-
-{{% /section %}}
-
----
-{{% section %}}
-
 ## La primera recuperación
 * Desde años 80
 * Con los medios que había
@@ -90,6 +105,15 @@ outputs = ["Reveal"]
 
 #### Se hacen funcionar con cañas/payetas gallegas
 
+
+{{% /section %}}
+
+---
+
+{{% section %}}
+
+<h2 class="r-fit-text">4. El modelo gallego</h2>
+    
 ---
 ## Qué habia pasado en Galicia
 
@@ -105,151 +129,6 @@ outputs = ["Reveal"]
 * Pierde riqueza tímbrica y expresiva
 
 #### ¿Uniformidad o diferencia?
-{{% /section %}}
-
----
-
-{{% section %}}
-## Recuperando el sonido
-* Desde 2020
-* Replicar las piezas de madera no es difícil
-* Lo más complejo: las cañas
-
-<img class="r-stretch" src="img/pitas-bestue-mejor.png" >
-
-Foto: Pablo Carpintero
-
----
-## ¿Cómo tiene que ser la caña?
-
-* Equilibrar ```tónica - octava - quinta```
-* El resto de los grados no tienen por qué ser **temperados**
-* Observar el instrumento
-* Cañas he hemos encontrado
-
----
-## Cañas encontradas
-
-<img src="img/inchas-bestue-encontradas.png" class="r-stretch">
-
-Estas no funcionaron
-
----
-## Simeón Serrate
-
-<img src="img/inchas-simeon.png" class="r-stretch">
-
----
-
-## ¡Ninguna puede ser!
-
-#### Clarines estudiados
-<img src="img/punteros-aragon.png" class="r-stretch">
-
-
----
-#### Comparación
-<img src="img/punteros.png" class="r-stretch">
-
-
----
-## Hay que intentarlo con:
-
-* Tiras planas
-* Sin la parte dura
-* Triangulares
-* Con tudel largo
-
----
-
-## Resultado
-
-<img src="img/cañas.png" class="r-stretch">
-
----
-<img src="img/clarines_inchas.png" class="r-stretch">
-
----
-## Harmónicos escala
-
-<img src="img/escala.jpeg" class="r-stretch">
-
----
-
-## Harmónicos fundamental
-
-<img src="img/fundamental.jpeg" class="r-stretch">
-
----
-## Hay que escucharlo
-
-* Gaita gallega antigua
-* Gaita gallega moderna
-* Réplica de Bestué
-
----
-
-## En el caso de Robres no funcionó
-
-#### Pero con este modelo
-<img src="img/inchas-bellver.png" class="r-stretch">
-
----
-## Un sonido diferente
-
-<img src="img/robres-tudel.png"  cclass="r-stretch">
-
----
-
-### ¿Una gaita de boto?
-
 
 {{% /section %}}
-
----
-
-{{% section %}}
-
-## Más allá de la caña
-
-* La gaita aragonesa tiene 3 sonidos
-* Bordón, bordoneta y clarín
-* Hay que equilibrarlos
-
----
-
-## Seguir mejorando
-* Más allá de la uniformidad
-* Compartir el trabajo
-* Avanzar sobre las cañas / clarines de robres y bestué
-* Sin perder su timbre
-* ¿Instrumento temperado?
-* Instrumento y repertorio
-* ¿Bordones y bordonetas?
-
-
----
-
-"Los bailes con la gaita, **que era análoga a la gallega pero más perfecta**, se 
-efectuaban las parejas de bailadores frente a las mujeres ..."
-
-Enrique Ainsa Lalaguna (1864-1947)
-
-
-{{% /section %}}
-
----
-## Anexos
-
----
-
-Proceso de reproducción y datación de las gaitas de boto de Robres y Bestué
-
-<p class=r-stretch>
-{{< youtube WzM2bIf-hOY >}}
- </p>
-
----
-
-## Créditos y agradecimientos
 

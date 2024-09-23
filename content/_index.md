@@ -14,6 +14,15 @@ outputs = ["Reveal"]
 
 {{% section %}}
 
+## Guión
+* Preocupación
+* ¿Cómo suena una gaita?
+* Lo que tenemos
+* El modelo gallego
+* Un nuevo sonido. Nueva oportunidad
+* Propuestas
+
+---
 ## Quiero hablar de
 * Sonoridad, timbre
 * Cañas
