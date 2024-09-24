@@ -51,7 +51,7 @@ ideas = "lengüetas de materiales sintéticos: muy predecibles y homogénes. No 
 ## La Gaita de Boto
 <p class="r-stretch"><img src="img/gaita-bestue.png" ></p>
 
-```Foto: Pablo Carpintero```
+<p style="font-size:small">Foto: Pablo Carpintero</p>
 
 ---
 
@@ -69,15 +69,20 @@ ideas = "lengüetas de materiales sintéticos: muy predecibles y homogénes. No 
 * Que estimula una columna de aire
 * **Cada cono, necesita su válvula**
 
+--- 
+## Caña - tudel - cono
+
+<p class="r-stretch"><img src="img/cono-tudel.png" ></p>
+
 ---
 ## Vibraciones
 
+<p style="font-size:small">Foto: PFC Guillermo Azuara</p>
 <p class="r-stretch"><img src="img/modos_vibracion.png" ></p>
-
-*Foto: PFC Guillermo Azuara*
 
 * La primera produce el tono
 * El resto dan la riqueza del sonido
+* Cañas sintéticas no son capaces
 
 {{% /section %}}
 
@@ -91,8 +96,8 @@ ideas = "lengüetas de materiales sintéticos: muy predecibles y homogénes. No 
 ## Situación residual del instrumento
 
 * En la segunda mitad del s. XX han desaparecido los gaiteros en Aragón
-* Apenas quedan restos de instrumentoss
-* No quedan pajuelas/inchas/pitas 
+* Apenas quedan restos de instrumentos
+* No quedan pajuelas/inchas/pitas (funcionales)
 * Vagos recuerdos de cómo hacerlas.
 
 ---
@@ -100,8 +105,8 @@ ideas = "lengüetas de materiales sintéticos: muy predecibles y homogénes. No 
 ## La primera recuperación
 * Desde años 80
 * Con los medios que había
-* Los músicos quieren instrumentos que afinen bien
-* Se mira a las gaitas gallegas
+* Los músicos quieren instrumentos que **afinen**
+* Se mira a las gaitas gallegas: lo que se conoce y es accesible
 
 #### Se hacen funcionar con cañas/payetas gallegas
 
@@ -119,13 +124,13 @@ ideas = "lengüetas de materiales sintéticos: muy predecibles y homogénes. No 
 
 * Gran interés por mejorar las gaitas (dúos, con otros insturmentos)
 * **Basilio Carril** desarrolla en los 60 varios modelos *temperados*
-* **Olimpio Carril** diseña un tipo de payeta para esos punteiros
+* **Olimpio Carril** diseña un tipo de payeta para esos punteiros (similar oboes)
 * Uno de los modelos triunfa y es el que sigue el resto de luthieres
 
 ---
 
 ## Estandarización de un tipo de gaita y de palleta
-* Gana afinación respecto a otros instrumentos
+* Gana **afinación** para tocar con otros instrumentos
 * Pierde riqueza tímbrica y expresiva
 
 #### ¿Uniformidad o diferencia?

@@ -36,7 +36,7 @@ ideas = "lengüetas de materiales sintéticos: muy predecibles y homogénes. No 
 
 <img class="r-stretch" src="img/pitas-bestue-mejor.png" >
 
-Foto: Pablo Carpintero
+<p style="font-size:small">Foto: Pablo Carpintero</p>
 
 ---
 ## ¿Cómo tiene que ser la caña?
@@ -50,13 +50,14 @@ Foto: Pablo Carpintero
 ## Cañas encontradas
 
 <img src="img/inchas-bestue-encontradas.png" class="r-stretch">
-
+<p style="font-size:small">Foto: Mario Gros</p>
 Estas no funcionaron
 
 ---
 ## Simeón Serrate
 
 <img src="img/inchas-simeon.png" class="r-stretch">
+<p style="font-size:small">Foto: Mario Gros</p>
 
 ---
 
@@ -148,8 +149,19 @@ efectuaban las parejas de bailadores frente a las mujeres ..."
 
 *Enrique Ainsa Lalaguna (1864-1947)*
 
+---
+
+<p class="r-fit-text">Sólo los <strong>buenos gaiteros</strong><br>
+construyen <strong>grandes gaitas</strong></p>
+
+*Dicho gallego*
+
+<p class="r-fit-text">Seguro que también buenas <strong>cañas</strong></p>
+
 
 {{% /section %}}
+
+
 
 ---
 
